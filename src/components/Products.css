@@ -1,0 +1,7 @@
+/* Card style */
+.card-item {
+  display: flex;
+  justify-content: space-around;
+  justify-items: center;
+  margin-top: 20px;
+}
